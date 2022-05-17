@@ -1,0 +1,15 @@
+{
+  "name": "garbagna-onetree",
+  "version": "1.0.0",
+  "description": "OneTree-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "Ramiro Garbagna",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
